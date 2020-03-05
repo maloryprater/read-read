@@ -4,17 +4,16 @@ body{
     background-color: black;
     font-family: 'dosis-light';
     color: white;
+    width: 150vw;
 }
 
 .fig {
-    margin-top: -7vh;
     text-align: center;
     display: block;
     max-width: 100%;
-    padding-top: 180px;
+    padding: 50px;
+    
 }
-
-
 
 
 h3 {
@@ -22,6 +21,7 @@ h3 {
     font-size: 40px;
     color: tomato;
     font-family: 'oxanium';
+    text-align: center;
 }
 
 p {
@@ -34,29 +34,29 @@ p {
 a {
     color: tomato;
     text-decoration: none;
-    text-align: center;
     font-size: 26px;
     font-family: 'oxanium';
+    text-align: center;
 }
 
 table {
     size: 20px;
     line-height: 27px;
-    font-size: 18px;
+    font-size: 26px;
     max-width: 600px;
     margin: auto;
 }
 
 h1 {
-    text-align: center;
-    font-size: 80px;
+    font-size: 100px;
     font-family: 'oxanium';
+    text-align: center;
 }
 
 h2 {
-    text-align: center;
     font-size: 40px;
     font-family: 'oxanium';
+    text-align: center;
 }
 
 
@@ -82,17 +82,5 @@ p:last-of-type {
 
 .poem {
     text-align: center;
-    font-size: 26px;
+    font-size: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
